@@ -1,0 +1,14 @@
+{
+  "name": "primera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "In construction"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
